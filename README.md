@@ -1,5 +1,5 @@
 # ISLR_Labs
-R sessions and scripts from the Introduction to Statistical Learning with Applications in R text and Statistical Learning Stanford Class
+R sessions and scripts from 'Introduction to Statistical Learning with Applications in R' problem sets and 'Statistical Learning' course labs
 
 Descriptions of R Files:
 
